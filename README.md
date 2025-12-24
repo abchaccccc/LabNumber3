@@ -340,7 +340,8 @@ public class Test {
         managment.seatNearOptimal(7);
     }
 }
-        ```
+
+```
 
 - **Output**:
         ```
