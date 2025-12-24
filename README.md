@@ -340,7 +340,7 @@ public class Test {
         managment.seatNearOptimal(7);
     }
 }
-```
+        ```
  - **Output**:
         ```
         Создан ресторан с 12 столами
