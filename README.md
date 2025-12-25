@@ -45,7 +45,7 @@
 ### 3) Программа
 ```
 
-```java
+
 
 package Restaurant;
 
